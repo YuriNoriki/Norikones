@@ -1,0 +1,23 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Node.js (caso use npm ou yarn no futuro)
+node_modules/
+dist/
+build/
+
+# Pré-processadores (caso use ferramentas como LESS/SASS)
+*.log
+*.cache
+
+# Diretórios ocultos do VSCode ou editores
+.vscode/
+.idea/
+
+# Arquivos compilados (se for usar pré-processadores no futuro)
+*.css.map
+*.less.js
+
+# Outros
+.env
